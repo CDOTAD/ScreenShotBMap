@@ -14,7 +14,7 @@ automatically capture the BMap's screen shot by selenium
     
     [chrome版本与chromedriver对应关系](https://blog.csdn.net/huilan_same/article/details/51896672)
     
-    [chromedriver镜像](npm.taobao.org/mirrors/chromedriver/)
+    [chromedriver镜像](http://npm.taobao.org/mirrors/chromedriver/)
 
     将chromedriver复制到 ${CHROME_HOME}/Application 下，并加入到环境变量中
 
